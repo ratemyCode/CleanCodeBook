@@ -13,4 +13,4 @@ probably have to use more than one. But we should take pains to
 minimize both the number and extent of extra languages in our source
 files.”
 
-Los entornos modernos de programacion actuales hacen posible colocar varios lenguajes de programacion  en un solo archivo. por ejemplo, un archivo de java puede contener snippets de XML, HTML, YAML, JavaDoc, English, JavaScript y asi.  lo ideal es que solo contenga uno, y solo uno,   lenguaje de programcion por archivo, aunque esto es complicado, deberiamos esmerarnos tanto en el numero  como en el alcanze de los lenguajes de programacion en nuestro codigo fuente. 
+Los entornos modernos de programación actuales hacen que sea posible colocar varios lenguajes de programación  en un solo archivo, por ejemplo, un archivo de Java puede contener snippets de `XML`, `HTML`, `YAML`, `JavaDoc`, English, `JavaScript` y asi.  Lo ideal es que solo contenga  un solo   lenguaje de programción por archivo, aunque esto es complicado, deberiamos esmerarnos tanto en el número  como en el alcance de los lenguajes de programación en nuestro código fuente. 
